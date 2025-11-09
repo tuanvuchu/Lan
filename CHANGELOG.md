@@ -1,4 +1,4 @@
-# Changelog
+# Nhật ký thay đổi
 
 ## v1.2.6
 ### Sửa lỗi
